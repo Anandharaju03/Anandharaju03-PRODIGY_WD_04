@@ -1,0 +1,40 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="new 1.css">
+    <script  src="javascript.js"></script>
+    <title>Background Example</title>
+
+</head>
+<body>
+    <div class="container">
+	<div class="profile photo">
+		<img src=" anand.jpg" height=130px width=130px align=left >
+	</div>
+        <h1 align=left>ANANDHA RAJU A</h1>
+        <p align =left>G-mail: <a href=mailto :"annaduraianandraj@gmail.com"> anandraj@gmail</a></p>
+		<p align =left>Linkedin: <a href=http://go.microsoft.com/fwlink/p/?LinkId=255141>ANANDHA RAJU</a></p>
+    </div>
+	<div class="container2" >
+	 <div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="about.html"   >About</a>
+  <a href="education.html">Education Details</a>
+  <a href=" new22.html">Certifications</a>
+   
+</div>
+<span style="font-size:20px;cursor:pointer" onclick="openNav()" >&#9776; Click Here For More Details</span>
+</div>
+
+<div class="container2">
+<h1>Objective</h1>
+<p>      To secure a challenging position in a reputable organization to expand my learning, knowledge and skills.</p><hr>
+<h1> Technical Skills</h1>
+<p> 1.HTML<br>2.CSS<br>3.JAVASCRIPT<BR>4.Programming in Java<br>5.Python<br>6.MySql</p><hr>
+<h1>Feild of Intrest</h1>
+<p>1.Web Development<br>2.Database Management<br>3.Full Stack Development</p><hr>
+</body>
+</html>
+ 
